@@ -2,7 +2,6 @@ app = "TarsRedBot"
 primary_region = "jnb"
 
 [build]
-  builder = "dockerfile"
 
 [http_service]
   internal_port = 8000
