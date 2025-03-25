@@ -2,6 +2,7 @@ app = "tarsredbot"
 
 [build]
   image = "Dockerfile"
+  dockerfile = "Dockerfile"
 
 [[services]]
   internal_port = 8080
